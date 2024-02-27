@@ -1,8 +1,6 @@
 @media screen and (max-width: 600px)
 {
-	#cover{
-		background-position:right;
-	}
+
 	#main h1{
 		font-size:30px;
 	}
@@ -88,9 +86,7 @@
 
 
 @media screen and (max-width:920px){
-	#cover{
-		background-position:right;
-	}
+	
 	.center1{
 		width:90%;
 	}
